@@ -7,8 +7,14 @@ function App() {
   const [Counter, setCounter] = useState(15)  
   const addvalue =()=>{
     if(Counter<30){
-    setCounter(Counter+1);
-    console.log("Clicked",Counter);
+    // setCounter(Counter+1);
+    // console.log("Clicked",Counter);
+    setCounter(prevCounter => prevCounter+1);
+    setCounter(prevCounter => prevCounter+1);
+    setCounter(prevCounter => prevCounter+1);
+    setCounter(prevCounter => prevCounter+1);
+
+
     }
   }
 
