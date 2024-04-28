@@ -10,6 +10,7 @@ function useCurrencyInfo(currency){
         .then((res) => setdata(res[currency]))    //aur isko store karne ke liye yeh use kiya
         console.log(data);
     },[currency])
+    console.log(data);
 
     return data
 }

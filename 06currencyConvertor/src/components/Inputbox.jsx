@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useId} from 'react'
 
 
 function InputBox({
@@ -12,17 +12,20 @@ function InputBox({
     currencyDisable = false,
     className = "",
 }) {
+
+    const amountInputId = useId()
+        /**  Isme jo Css hain woh thoda special css hain jo apan ne backtiks laga kar likhi hain kyuki humne  user se  ek CSS le rakhi hain */
+
    
     return (
         <div className={`bg-white p-3 rounded-lg text-sm flex ${className} `}> 
-        //Isme jo Css hain woh thoda special css hain jo apan ne backtiks laga kar likhi hain kyuki humne 
-        //user se  ek CSS le rakhi hain
             <div className="w-1/2">
-                <label  className="text-black/40 mb-2 inline-block">
+                <label  htmlFor ={amountInputId} className="text-black/40 mb-2 inline-block">
                     {label}
                 </label>
                 <input
-                    
+                 
+                    id = {amountInputId}
                     className="outline-none w-full bg-transparent py-1.5"
                     type="number"
                     placeholder="Amount"
@@ -41,12 +44,14 @@ function InputBox({
                     disabled={currencyDisable}
 
                 >
+                    //Agar performance lani hain loop ke ander elements ko repeat karne ke liye toh 
+                    //apko key pass karni hi hogi
+                    //Remember the key in loops
                     {currencyOptions.map((currency) => (
-                        <option key={currency} value={currency}>{currency}</option>
+                        <option key={currency} value={currency}>
+                            {currency}
+                            </option>
                     ))}
-                    
-                        
-                
                 </select>
             </div>
         </div>
