@@ -3,6 +3,9 @@ import {Link,NavLink} from 'react-router-dom'
 
 {/*Hum "a" tag use nahi karte kyuki usse page pura reload/refresh hota hain aur react me hum yeh nahi chate
 isiliye Link use karte hain */}
+{/**
+yeh cheez aur mention karna hain
+ */}
 export default function Header() {
     return (
         <header className="shadow sticky z-50 top-0">
