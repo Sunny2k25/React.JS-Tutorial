@@ -14,7 +14,9 @@ function InputBox({
 }) {
 
     const amountInputId = useId()
-        /**  Isme jo Css hain woh thoda special css hain jo apan ne backtiks laga kar likhi hain kyuki humne  user se  ek CSS le rakhi hain */
+        /**  Isme jo Css hain woh thoda special css hain jo apan ne backtiks laga kar 
+         * likhi hain kyuki humne  user se  ek CSS le rakhi hain 
+         * */
 
    
     return (
@@ -24,7 +26,6 @@ function InputBox({
                     {label}
                 </label>
                 <input
-                 
                     id = {amountInputId}
                     className="outline-none w-full bg-transparent py-1.5"
                     type="number"
