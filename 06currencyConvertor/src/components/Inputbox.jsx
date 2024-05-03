@@ -30,7 +30,7 @@ function InputBox({
                     className="outline-none w-full bg-transparent py-1.5"
                     type="number"
                     placeholder="Amount"
-                    disabled ={amountDisable}
+                    disabled = {amountDisable}
                     value={amount}
                     onChange={(e) => onAmountChange && onAmountChange (Number(e.target.value))}
 
@@ -48,6 +48,9 @@ function InputBox({
                     //Agar performance lani hain loop ke ander elements ko repeat karne ke liye toh 
                     //apko key pass karni hi hogi
                     //Remember the key in loops
+                    {/**
+                     * Jab React me Loop use karte hain toh key pass karni hi hoti hain
+                     */}
                     {currencyOptions.map((currency) => (
                         <option key={currency} value={currency}>
                             {currency}
