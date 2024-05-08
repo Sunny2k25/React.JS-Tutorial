@@ -10,7 +10,7 @@ function App() {
 
   return (
    <UserContextProvider>
-   <h1>React with chai</h1>
+   <h1>Login With Your Name</h1>
    <Login/>
    <Profile/>
    </UserContextProvider>
