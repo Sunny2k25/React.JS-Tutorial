@@ -12,7 +12,7 @@ function App() {
    <UserContextProvider>
    <h1>Login With Your Name</h1>
    <Login/>
-   <Profile/>
+   <Profile/>  
    </UserContextProvider>
   )
 }

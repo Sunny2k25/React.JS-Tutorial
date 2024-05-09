@@ -1,6 +1,8 @@
 import React, { Children } from "react";
 import UserContext from "./UserContext";
 
+{/**UserContextProvider kuch nahi hain yeh ek method hain */}
+
 
 const UserContextProvider = ({children}) =>{
     const [user, setUser] = React.useState(null);
@@ -11,4 +13,4 @@ const UserContextProvider = ({children}) =>{
     )
 }
 
-export default UserContextProvider
+export default UserContextProvider;
