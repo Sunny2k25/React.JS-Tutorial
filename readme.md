@@ -54,7 +54,7 @@ This repository contains code and projects related to my learning journey of Rea
 ## Screenshots
 <img width="1440" alt="Screenshot 2024-05-16 at 2 24 06 PM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/1770ec65-83bb-4e4a-96ef-40931ecbef94">
 <img width="1440" alt="Screenshot 2024-05-16 at 2 24 09 PM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/4cfb6611-d127-4243-b8ca-65bbd0f7da0d">
-![Uploading Screenshot 2024-05-16 at 2.24.12 PM.png…]()
+
 
 
 ## How to Use
