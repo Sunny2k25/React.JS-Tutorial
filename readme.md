@@ -20,13 +20,17 @@ This repository contains code and projects related to my learning journey of Rea
 
 ## 2. Password Generator
    - Description: A tool to generate random passwords.
-# Screenshots
+## Screenshots
 <img width="1440" alt="Screenshot 2024-05-16 at 11 11 57 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/ca957985-42bb-42a8-8880-064f3ae88398">
 <img width="1440" alt="Screenshot 2024-05-16 at 11 12 11 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/07616b69-263a-4f76-9725-4c3d812e363c">
 
 ## 3. Currency Converter
    - Description: A currency converter app using API.
-   - Code: [Link](./currency-converter)
+## Screenshots
+<img width="1440" alt="Screenshot 2024-05-16 at 11 15 51 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/d867d931-8e3f-4a92-8951-fdc7efba1da4">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 16 13 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/07c79f85-59f9-4813-9caa-a99a9d0bd02e">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 16 30 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/17cfe814-1155-464c-9bd6-7d42a0ae1cab">
+
 ## 4. UseContext Related Projects
    - Description: Projects demonstrating the use of the useContext hook.
    - Code: [Link](./usecontext-projects)
