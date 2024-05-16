@@ -15,7 +15,7 @@ This repository contains code and projects related to my learning journey of Rea
 ## Projects
 ## 1. Background Changer
    - Description: A simple app to change the background colour.
-# Screenshots
+## Screenshots
 <img width="1440" alt="Screenshot 2024-05-16 at 11 11 12 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/fe9b69cb-1b3f-45e1-9374-70474a616eb1">
 
 ## 2. Password Generator
