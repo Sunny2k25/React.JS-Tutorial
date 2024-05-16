@@ -13,20 +13,24 @@ This repository contains code and projects related to my learning journey of Rea
 - Theme Switcher
 
 ## Projects
-1. Background Changer
+## 1. Background Changer
    - Description: A simple app to change the background colour.
-   - Output
-   - Screenshots
-2. Password Generator
+# Screenshots
+<img width="1440" alt="Screenshot 2024-05-16 at 11 11 12 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/fe9b69cb-1b3f-45e1-9374-70474a616eb1">
+
+## 2. Password Generator
    - Description: A tool to generate random passwords.
-   - Code: [Link](./password-generator)
-3. Currency Converter
+# Screenshots
+<img width="1440" alt="Screenshot 2024-05-16 at 11 11 57 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/ca957985-42bb-42a8-8880-064f3ae88398">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 12 11 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/07616b69-263a-4f76-9725-4c3d812e363c">
+
+## 3. Currency Converter
    - Description: A currency converter app using API.
    - Code: [Link](./currency-converter)
-4. UseContext Related Projects
+## 4. UseContext Related Projects
    - Description: Projects demonstrating the use of the useContext hook.
    - Code: [Link](./usecontext-projects)
-5. Theme Switcher
+## 5. Theme Switcher
    - Description: A theme switcher to change the app's theme.
    - Code: [Link](./theme-switcher)
 
