@@ -45,7 +45,7 @@ This repository contains code and projects related to my learning journey of Rea
    - Description: Projects demonstrating the use of the useContext hook.
 ## Screenshots
 <img width="1440" alt="Screenshot 2024-05-16 at 2 17 43 PM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/fadf11fb-6f33-4a13-b18b-ff2b7c8195d7">
-![Uploading Screenshot 2024-05-16 at 2.19.22 PM.png…]()
+<img width="1440" alt="Screenshot 2024-05-16 at 2 19 22 PM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/5efba981-18c9-4f31-a458-97516193ffbe">
 
 
 
