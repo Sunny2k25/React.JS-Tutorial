@@ -31,10 +31,20 @@ This repository contains code and projects related to my learning journey of Rea
 <img width="1440" alt="Screenshot 2024-05-16 at 11 16 13 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/07c79f85-59f9-4813-9caa-a99a9d0bd02e">
 <img width="1440" alt="Screenshot 2024-05-16 at 11 16 30 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/17cfe814-1155-464c-9bd6-7d42a0ae1cab">
 
-## 4. UseContext Related Projects
+
+## 4. React Router-Related Projects
+   - Description: Projects demonstrating the use of the router in React.js.
+## Screenshots
+<img width="1440" alt="Screenshot 2024-05-16 at 11 19 03 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/9a1ba570-f427-4952-b361-0804bc479a93">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 19 09 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/86191841-648f-4796-ba24-23236e826ce9">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 19 13 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/40361e1c-9ce4-4899-adc9-45cd23de966c">
+<img width="1440" alt="Screenshot 2024-05-16 at 11 19 17 AM" src="https://github.com/Sunny2k25/React.JS-Tutorial/assets/117598761/44d693a5-463f-4529-9ca0-2c0d268ec4cf">
+
+
+## 5. UseContext Related Projects
    - Description: Projects demonstrating the use of the useContext hook.
    - Code: [Link](./usecontext-projects)
-## 5. Theme Switcher
+## 6. Theme Switcher
    - Description: A theme switcher to change the app's theme.
    - Code: [Link](./theme-switcher)
 
