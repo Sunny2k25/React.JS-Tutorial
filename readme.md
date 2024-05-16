@@ -1,6 +1,6 @@
 # React.js Tutorial
 
-This repository contains code and projects related to my learning journey of React.js. I am following the tutorials from the YouTube channel [Chai Aur Code](https://www.youtube.com/channel/UC7Q7pl0z0MrdayvmAnchlJQ) by Instructor Hitesh Choudhary Sir.
+This repository contains code and projects related to my learning journey of React.js. I am following the tutorials from the YouTube channel [Chai Aur Code](https://www.youtube.com/@chaiaurcode) by Instructor Hitesh Choudhary Sir.
 
 ## Concepts Covered
 - Basics of React.js
