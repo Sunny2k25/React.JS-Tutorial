@@ -14,8 +14,9 @@ This repository contains code and projects related to my learning journey of Rea
 
 ## Projects
 1. Background Changer
-   - Description: A simple app to change the background color.
-   - Code: [Link](./background-changer)
+   - Description: A simple app to change the background colour.
+   - Output
+   - Screenshots
 2. Password Generator
    - Description: A tool to generate random passwords.
    - Code: [Link](./password-generator)
