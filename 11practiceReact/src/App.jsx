@@ -1,11 +1,14 @@
-import { useState } from 'react'
+import React from 'react'
 
-
-function App() {
+const App = () => {
   return (
-    <>
-    <h1>Hello World</h1>
-    </>
+    <div>
+      <div className="container bg-red-500">
+        <h1>Hello World</h1>
+        
+      </div>
+      <button className="">Hey</button>
+    </div>
   )
 }
 
